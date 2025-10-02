@@ -1,8 +1,7 @@
 Soy eze...
-
+	Nacimientos: Mars.
 	Edad: 25
 	Profesion: Programmer
 	Education: Pensilvania
 	Idioma: Ingles - Español
-
 Gracias.
