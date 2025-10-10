@@ -2,6 +2,7 @@ Soy eze...
 
 	Edad: 25
 	Profesion: Programmer
-	education: Pensilvania
+	Education: Pensilvania
+	Idioma: Ingles - Español
 
 Gracias.
