@@ -1,7 +1,7 @@
 Soy eze...
 	Nacimientos: Mars.
-	Edad: desconocida
-	Profesion: Programmer
+	Edad: Desconocido
+	Profesion: Programmer Junior.
 	Education: Pensilvania
 	Idioma: Ingles - Español
-Gracias.
+Gracias...
